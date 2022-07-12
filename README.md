@@ -18,7 +18,7 @@ Basicamente, esse módulo foi de ambientação e treinamento em Unity. Para essa
 Ao inicializar o executável, o labirinto começará a ser formado:
 ![figura1](https://user-images.githubusercontent.com/69814362/178394563-ad7fd91c-46ab-4f1f-a499-0a40a18c5b98.png)
 
-A partir do algoritmo de Prim, as passagens e as paredes começam a ganhar vida:
+A partir do algoritmo de Prim, as passagens e as paredes começam a ganhar vida. É possível apertar no teclado "Backspace" para interromper o programa e iniciar outro labirinto.
 ![figura2](https://user-images.githubusercontent.com/69814362/178394556-b03694d8-21a6-440b-bede-865ec61ad0e8.png)
 
 Por fim, o resultado:
@@ -34,5 +34,5 @@ Para visualizar todos os arquivos, basta instalar o Unity, fazer o download do r
 
 ## Uso
 
-É possível abrir o executável do projeto fazendo o download do repositório, indo na pasta "PrimMazeExe" e executando o arquivo "Maze_2.exe"
+É possível abrir o executável do projeto fazendo o download do repositório, indo na pasta "PrimMazeExe" e executando o arquivo "Maze_2.exe". 
 
