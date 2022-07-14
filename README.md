@@ -1,4 +1,4 @@
-# SpaceInvaders (Prim's Algorithm Practicing)
+# Space Invaders (Prim's Algorithm Practicing)
 
 **Conteúdo da Disciplina**: Grafos 2<br>
 
@@ -36,3 +36,5 @@ Para visualizar todos os arquivos, basta instalar o Unity, fazer o download do r
 
 É possível abrir o executável do projeto fazendo o download do repositório, indo na pasta "PrimMazeExe" e executando o arquivo "Maze_2.exe". 
 
+## Apresentação
+[![Vídeo de apresentação](https://img.youtube.com/vi/lkTcPnd0qKI/0.jpg)](https://youtu.be/qDbLjiFTw6Y)
